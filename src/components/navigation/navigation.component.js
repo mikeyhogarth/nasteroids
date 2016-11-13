@@ -26,7 +26,7 @@ class NavigationComponent extends Component {
             </li>
           </ul>
           <ul className="nav navbar-nav navbar-right">
-            <li><a href="http://nasa.com/" target="_blank">Powered by Nasa NeoWS</a></li>
+            <li><a href="https://api.nasa.gov/api.html#NeoWS" target="_blank">Powered by Nasa NeoWS</a></li>
           </ul>
         </div>
       </div>
