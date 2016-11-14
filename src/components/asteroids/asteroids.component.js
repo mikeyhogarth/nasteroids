@@ -12,7 +12,7 @@ class AsteroidsComponent extends Component {
   }
   
   componentDidMount() {
-    fetchAsteroids(new Date(), new Date()).then(r => {
+    fetchAsteroids().then(r => {
       const day = _.keys(r.near_earth_objects)[0];
       this.setState({
         day: day,

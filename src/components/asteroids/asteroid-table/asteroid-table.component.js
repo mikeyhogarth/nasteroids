@@ -9,7 +9,7 @@ class AsteroidTableComponent extends Component {
           <tr>
             <th>Name</th>
             <th>Orbiting Body</th>
-            <th>Estimated Diameter (miles)</th>
+            <th>Min. Estimated Diameter (meters)</th>
             <th>Absolute Magnitude</th>
           </tr>
         </thead>
