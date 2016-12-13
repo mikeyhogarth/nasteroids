@@ -8,6 +8,11 @@
     "webpack": "^1.13.3",
     "webpack-dev-server": "^1.16.2"
   },
+  
+  "engines": {
+    "node": "7.0.0"
+  },
+
   "dependencies": {
     "bootswatch": "^3.3.7",
     "dotenv": "^2.0.0",
