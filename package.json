@@ -23,7 +23,7 @@
   },
   "scripts": {
     "dev": "NODE_ENV=development node server/server.dev.js",
-    "start": "npm run build && NODE_ENV=production node server/server.prod.js",
+    "start": "NODE_ENV=production node server/server.prod.js",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
